@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mpi.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "omp.h": "c"
+    },
+    "cmake.sourceDirectory": "C:/Users/axell/Desktop/Cosas Universidad 4to año/Computación Avanzada/MPI/.vscode"
+}
